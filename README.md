@@ -1,4 +1,4 @@
-# Fingerprint-Recognition
+# Fingerprint Recognition
 The inspiration for this project is from a tv show called "Dexter". Dexter is a forensic experties in a blood spatter analyst, but some time he have to deal with the finger print too. <br><br>
 <img src="https://github.com/user-attachments/assets/932b0826-5cf5-46ff-9220-b2dba11da459" width="100%" alt="Jinx"> <br><br>
 
