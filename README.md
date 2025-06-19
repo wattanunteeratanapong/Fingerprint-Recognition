@@ -7,4 +7,7 @@ In this project am gonna try to make a fingerprint matching pattern between two 
 There are plenty of a feature matching technique for example ORB, SIFT, FLANN. In this repo am gonna try to find the best method that suit this project. <br><br>
 <img src="https://github.com/user-attachments/assets/7cf48143-abb8-4e0b-a441-9571cc47d6d1" width="100%" alt="Fingerprintsearching"> <br><br>
 
+# Evaluation
+Am gonna evanluation the similarity in a scale from 0%-100%
+
 
