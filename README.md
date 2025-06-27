@@ -41,7 +41,9 @@ As you can see, i tried this technique and it performance is pretty poor. I also
 I think this is the closest method that the real police use to find the match called "Minutiae Based". This include Histogram Equalization to distribute the color equally, then Tresholding to make image only black or white pixel (no gray or shade), then skeleton the image and extract minutiae points and compares them to find a match.  <br><br>
 
 # Conclusion
-Minutiae Based method accuracy seem fine. But there's one major problem, the two image format have to be the same format. But i assume that the police is already prep image format before find match, so this shouldn't be a concern. <br><br>
+Minutiae Based method accuracy seem fine. But there's two major problem. <br>
+1. The two image format have to be the same format. But i assume that the police is already organize image format before find match, so this shouldn't be a concern. <br>
+2. Fingerprints cannot be rotated too much, or the method will fail to match them correctly. <br><br>
 <img src="https://github.com/user-attachments/assets/eff61c99-bf5e-4f20-b7bd-dfb3eeb79ea5" width="100%" alt="DexterMickey"> <br><br>
 
 # Source
