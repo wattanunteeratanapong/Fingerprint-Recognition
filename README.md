@@ -6,7 +6,7 @@ The inspiration for this project is from a tv show called "Dexter". Dexter is a 
 In this project am gonna try to make a fingerprint matching between two image to see how the match of these fingerprint from scale 0%-100%, like a miami police department fingerprint matching system. This might include some of a image processing knowledge about image preparation and feature mathcing. There are plenty of a technique that i could think of for example ORB, SIFT, FLANN. Or even using CNN but i dont wanna dig that deep into a machine learning. So in this repository am gonna try to find the best method that suit this project. <br><br>
 <img src="https://github.com/user-attachments/assets/7cf48143-abb8-4e0b-a441-9571cc47d6d1" width="100%" alt="Fingerprintsearching"> <br><br>
 
-# Experimentation
+# Experimentation 
 ## FLANN 
 ### Sample 1
 <img src="https://github.com/user-attachments/assets/f35160b3-350b-4d6f-b80d-c09c22bd3b0c" width="49%" height="300px" alt="Sample1">
