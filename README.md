@@ -33,6 +33,7 @@ I think this is the closest method that the real police use to find the match ca
 
 # Conclusion
 Minutiae Based method accuracy seem fine. But there's one major problem, the two image format have to be the same format. But i assume that the police is already prep image format before find match, so this shouldn't be a concern. <br><br>
+<img src="https://github.com/user-attachments/assets/eff61c99-bf5e-4f20-b7bd-dfb3eeb79ea5" width="100%" alt="DexterMickey"> <br><br>
 
 # Source
 <a href="https://youtu.be/xD88Qs_DZp4?si=36H1jLFSzvrj2B5j">Fingerprint Recognition - Computerphile</a>
