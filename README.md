@@ -3,7 +3,7 @@ The inspiration for this project is from a tv show called "Dexter". Dexter is a 
 <img src="https://github.com/user-attachments/assets/932b0826-5cf5-46ff-9220-b2dba11da459" width="100%" alt="DexterandVince"> <br><br>
 
 # Overview
-In this project am gonna try to make a fingerprint matching pattern between two image to see how the match of these fingerprint like a miami police department fingerprint matching system, this may include some of a image processing knowledge about feature mathcing.
+In this project am gonna try to make a fingerprint matching pattern between two image to see how the match of these fingerprint like a miami police department fingerprint matching system, this may include some of a image processing knowledge about image preparation and feature mathcing.
 There are plenty of a technique that i could think of for example ORB, SIFT, FLANN. Or even using CNN but i dont wanna dig that deep into a machine learning. So in this repo am gonna try to find the best method that suit this project. <br><br>
 <img src="https://github.com/user-attachments/assets/7cf48143-abb8-4e0b-a441-9571cc47d6d1" width="100%" alt="Fingerprintsearching"> <br><br>
 
