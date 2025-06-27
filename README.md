@@ -17,7 +17,7 @@ There are plenty of a technique that i could think of for example ORB, SIFT, FLA
 <img src="https://github.com/user-attachments/assets/5d68f2a7-dcf2-4560-9ea2-987f66fc0ba0" width="49%" height="350px" alt="Sample2">
 <img src="https://github.com/user-attachments/assets/7164faf5-b12f-446a-96d3-138f5a223155" width="49%" height="350px" alt="Sample2"> <br><br>
 
-As you can see, i tried this technique and it performance is pretty poor. I also tried to tune the FLANN parameter to make it fit this project but it likely impossible to implement the project with this method. So i wonder what kind of technique do the police like Miami Police Department in Dexter using? <br><br>
+As you can see, i tried this technique and it performance is pretty poor. I also tried to tune the FLANN parameter to make it work, but i think it's likely impossible to implement the project with this method. So i wonder what kind of technique do the police like Miami Police Department in Dexter using? <br><br>
 
 ## Minutiae Based
 ### Sample 1
@@ -30,7 +30,7 @@ As you can see, i tried this technique and it performance is pretty poor. I also
 <img src="https://github.com/user-attachments/assets/97fd50d9-7509-49a5-b30f-e5a994f5f9c9" width="33%" height="275px" alt="Sample2">
 <img src="https://github.com/user-attachments/assets/bc70ede8-6573-4cee-834c-8c21793cff8e" width="33%" height="275px" alt="Sample2"> <br><br>
 
-This method is a method that real police is use to find the match. This include Histogram Equalization to distribute the color equally, then Tresholding to make image only black and white pixel (no gray or shade), then skeleton the image and extract minutiae points and compares them to find a match.
+This method is the method that real police is use to find the match called "Minutiae Based". This include Histogram Equalization to distribute the color equally, then Tresholding to make image only black or white pixel (no gray or shade), then skeleton the image and extract minutiae points and compares them to find a match.
 
 # Conclusion
 Minutiae Based method accuracy seem fine. But there's one major problem, the two image format have to be the same format. But i assume that the police is already prep image format already before find match, so this shouldn't be a big concern. <br><br>
