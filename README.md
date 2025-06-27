@@ -9,20 +9,20 @@ In this project am gonna try to make a fingerprint matching between two image to
 # Experimentation
 ## FLANN 
 ### Sample 1
-<img src="https://github.com/user-attachments/assets/f35160b3-350b-4d6f-b80d-c09c22bd3b0c" width="49%" height="350px" alt="Sample1">
-<img src="https://github.com/user-attachments/assets/696cf3db-0452-4269-991e-8b6801a3a012" width="49%" height="350px" alt="Sample1"> <br>
+<img src="https://github.com/user-attachments/assets/f35160b3-350b-4d6f-b80d-c09c22bd3b0c" width="49%" height="300px" alt="Sample1">
+<img src="https://github.com/user-attachments/assets/696cf3db-0452-4269-991e-8b6801a3a012" width="49%" height="300px" alt="Sample1"> <br>
 
 ### Sample 2
-<img src="https://github.com/user-attachments/assets/5d68f2a7-dcf2-4560-9ea2-987f66fc0ba0" width="49%" height="350px" alt="Sample2">
-<img src="https://github.com/user-attachments/assets/7164faf5-b12f-446a-96d3-138f5a223155" width="49%" height="350px" alt="Sample2"> <br><br>
+<img src="https://github.com/user-attachments/assets/5d68f2a7-dcf2-4560-9ea2-987f66fc0ba0" width="49%" height="300px" alt="Sample2">
+<img src="https://github.com/user-attachments/assets/7164faf5-b12f-446a-96d3-138f5a223155" width="49%" height="300px" alt="Sample2"> <br><br>
 
 As you can see, i tried this technique and it performance is pretty poor. I also tried to tune the FLANN parameter to make it work, but i think it's likely impossible to implement the project with this method. So i wonder what kind of technique do the police like Miami Police Department in Dexter using? <br><br>
 
 ## Minutiae Based
 ### Sample 1
-<img src="https://github.com/user-attachments/assets/37fd224d-f7b2-4f08-98d0-48ee87dd57ae" width="32%" height="275px" alt="Sample1">
-<img src="https://github.com/user-attachments/assets/0323a3ad-848a-4f25-ad34-d3850bf58fe8" width="32%" height="275px" alt="Sample1">
-<img src="https://github.com/user-attachments/assets/b6da19bf-a6c9-4399-b683-a8a7794c23bd" width="32%" height="275px" alt="Sample1"> <br>
+<img src="https://github.com/user-attachments/assets/37fd224d-f7b2-4f08-98d0-48ee87dd57ae" width="32%" height="250px" alt="Sample1">
+<img src="https://github.com/user-attachments/assets/0323a3ad-848a-4f25-ad34-d3850bf58fe8" width="32%" height="250px" alt="Sample1">
+<img src="https://github.com/user-attachments/assets/b6da19bf-a6c9-4399-b683-a8a7794c23bd" width="32%" height="250px" alt="Sample1"> <br>
 
 ### Sample 2
 <img src="https://github.com/user-attachments/assets/a3ccef27-44c2-433a-b8e9-d3d9602341fc" width="32%" height="275px" alt="Sample2">
