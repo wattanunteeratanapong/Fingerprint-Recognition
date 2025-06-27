@@ -9,27 +9,31 @@ There are plenty of a technique that i could think of for example ORB, SIFT, FLA
 
 # Experimentation
 ## FLANN 
+### Sample 1
 <img src="https://github.com/user-attachments/assets/f35160b3-350b-4d6f-b80d-c09c22bd3b0c" width="49%" height="350px" alt="Sample1">
-<img src="https://github.com/user-attachments/assets/696cf3db-0452-4269-991e-8b6801a3a012" width="49%" height="350px" alt="Sample1"> <br><br>
+<img src="https://github.com/user-attachments/assets/696cf3db-0452-4269-991e-8b6801a3a012" width="49%" height="350px" alt="Sample1"> <br>
 
+### Sample 2
 <img src="https://github.com/user-attachments/assets/5d68f2a7-dcf2-4560-9ea2-987f66fc0ba0" width="49%" height="350px" alt="Sample2">
 <img src="https://github.com/user-attachments/assets/7164faf5-b12f-446a-96d3-138f5a223155" width="49%" height="350px" alt="Sample2"> <br><br>
 
-As you can see, i tried this technique and it performance is pretty poor. I also tried to tune the FLANN parameter to make it fit this project but it likely impossible to implement the project with this method. So i wonder what kind of technique do the police like Miami Police Department in Dexter using? 
+As you can see, i tried this technique and it performance is pretty poor. I also tried to tune the FLANN parameter to make it fit this project but it likely impossible to implement the project with this method. So i wonder what kind of technique do the police like Miami Police Department in Dexter using? <br><br>
 
 ## Minutiae Based
+### Sample 1
+<img src="https://github.com/user-attachments/assets/37fd224d-f7b2-4f08-98d0-48ee87dd57ae" width="33%" height="275px" alt="Sample1">
+<img src="https://github.com/user-attachments/assets/0323a3ad-848a-4f25-ad34-d3850bf58fe8" width="33%" height="275px" alt="Sample1">
+<img src="https://github.com/user-attachments/assets/b6da19bf-a6c9-4399-b683-a8a7794c23bd" width="33%" height="275px" alt="Sample1"> <br>
 
+### Sample 2
+<img src="https://github.com/user-attachments/assets/a3ccef27-44c2-433a-b8e9-d3d9602341fc" width="33%" height="275px" alt="Sample2">
+<img src="https://github.com/user-attachments/assets/97fd50d9-7509-49a5-b30f-e5a994f5f9c9" width="33%" height="275px" alt="Sample2">
+<img src="https://github.com/user-attachments/assets/bc70ede8-6573-4cee-834c-8c21793cff8e" width="33%" height="275px" alt="Sample2"> <br><br>
 
-# Result
-
-
-
-
-<img src="" width="100%" alt=""> <br><br>
-<img src="" width="100%" alt=""> <br><br>
+This method is a method that real police is use to find the match. This include Histogram Equalization to distribute the color equally, then Tresholding to make image only black and white pixel (no gray or shade), then skeleton the image and extract minutiae points and compares them to find a match.
 
 # Conclusion
-There are a few problem in this project, the fingerprint image have to be the same format like this.
+Minutiae Based method accuracy seem fine. But there's one major problem, the two image format have to be the same format. But i assume that the police is already prep image format already before find match, so this shouldn't be a big concern. <br><br>
 
 # Source
 <a href="https://youtu.be/xD88Qs_DZp4?si=36H1jLFSzvrj2B5j">Fingerprint Recognition - Computerphile</a>
