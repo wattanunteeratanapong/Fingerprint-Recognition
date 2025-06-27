@@ -1,5 +1,5 @@
 # Fingerprint Recognition
-The inspiration for this project is from a tv show called "Dexter". Dexter is a forensic expert in a blood spatter analyst, but some time he have to deal with the finger print too. <br><br>
+The inspiration for this project is from a tv show called "Dexter". Dexter is a forensic expert in a blood spatter analyst, most of the time fingerprint matching is a Masuka's job, but some time Dexter have to deal with the finger print too. <br><br>
 <img src="https://github.com/user-attachments/assets/932b0826-5cf5-46ff-9220-b2dba11da459" width="100%" alt="DexterandVince"> <br><br>
 
 # Overview
@@ -15,7 +15,7 @@ There are plenty of a technique that i could think of for example ORB, SIFT, FLA
 <img src="https://github.com/user-attachments/assets/5d68f2a7-dcf2-4560-9ea2-987f66fc0ba0" width="49%" height="350px" alt="Sample2">
 <img src="https://github.com/user-attachments/assets/7164faf5-b12f-446a-96d3-138f5a223155" width="49%" height="350px" alt="Sample2"> <br><br>
 
-As you can see, i tried this technique and it performance is pretty poor. Then i wonder what kind of technique do the police like Miami Police Department in Dexter using? 
+As you can see, i tried this technique and it performance is pretty poor. I also tried to tune the FLANN parameter to make it fit this project but it likely impossible to implement the project this method. So i wonder what kind of technique do the police like Miami Police Department in Dexter using? 
 
 ## Minutiae Based
 
