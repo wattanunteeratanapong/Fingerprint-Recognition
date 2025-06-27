@@ -19,12 +19,12 @@ In this project am gonna try to make a fingerprint matching between two image to
 As you can see, i tried this technique and it performance is pretty poor. I also tried to tune the FLANN parameter to make it work, but i think it's likely impossible to implement the project with this method. So i wonder what kind of technique do the police like Miami Police Department in Dexter using? <br><br>
 
 ## Minutiae Based
-### Sample 1
+### Sample 1 (81.88%)
 <img src="https://github.com/user-attachments/assets/37fd224d-f7b2-4f08-98d0-48ee87dd57ae" width="32%" height="200px" alt="Sample1">
 <img src="https://github.com/user-attachments/assets/0323a3ad-848a-4f25-ad34-d3850bf58fe8" width="32%" height="200px" alt="Sample1">
 <img src="https://github.com/user-attachments/assets/b6da19bf-a6c9-4399-b683-a8a7794c23bd" width="32%" height="200px" alt="Sample1"> <br>
 
-### Sample 2
+### Sample 2 (31.62%)
 <img src="https://github.com/user-attachments/assets/a3ccef27-44c2-433a-b8e9-d3d9602341fc" width="32%" height="200px" alt="Sample2">
 <img src="https://github.com/user-attachments/assets/97fd50d9-7509-49a5-b30f-e5a994f5f9c9" width="32%" height="200px" alt="Sample2">
 <img src="https://github.com/user-attachments/assets/bc70ede8-6573-4cee-834c-8c21793cff8e" width="32%" height="200px" alt="Sample2"> <br><br>
