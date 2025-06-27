@@ -8,7 +8,7 @@ There are plenty of a technique that i could think of for example ORB, SIFT, FLA
 <img src="https://github.com/user-attachments/assets/7cf48143-abb8-4e0b-a441-9571cc47d6d1" width="100%" alt="Fingerprintsearching"> <br><br>
 
 # Experimentation
-## FLANN
+## FLANN 
 <img src="https://github.com/user-attachments/assets/f35160b3-350b-4d6f-b80d-c09c22bd3b0c" width="49%" height="350px" alt="Sample1">
 <img src="https://github.com/user-attachments/assets/696cf3db-0452-4269-991e-8b6801a3a012" width="49%" height="350px" alt="Sample1"> <br><br>
 
@@ -16,6 +16,8 @@ There are plenty of a technique that i could think of for example ORB, SIFT, FLA
 <img src="https://github.com/user-attachments/assets/7164faf5-b12f-446a-96d3-138f5a223155" width="49%" height="350px" alt="Sample2"> <br><br>
 
 As you can see, i tried this technique and it performance is pretty poor. Then i wonder what kind of technique do the police like Miami Police Department in Dexter using? 
+
+## Minutiae Based
 
 
 # Result
@@ -31,6 +33,9 @@ There are a few problem in this project, the fingerprint image have to be the sa
 
 # Source
 <a href="https://youtu.be/xD88Qs_DZp4?si=36H1jLFSzvrj2B5j">Fingerprint Recognition - Computerphile</a>
+<br>
+
+<a href="https://www.intechopen.com/chapters/16502">Minutiae-based Fingerprint Extraction and Recognition | IntechOpen</a>
 <br>
 
 <a href="https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/?couponCode=25BBPMXINACTIVE">Python for Computer Vision with OpenCV and Deep Learning</a>
