@@ -8,15 +8,15 @@ In this project am gonna try to make a fingerprint matching between two image to
 
 # Experimentation 
 ## FLANN 
-### Sample 1
+### Sample 1 (0.96%)
 <img src="https://github.com/user-attachments/assets/f35160b3-350b-4d6f-b80d-c09c22bd3b0c" width="49%" height="300px" alt="Sample1">
 <img src="https://github.com/user-attachments/assets/696cf3db-0452-4269-991e-8b6801a3a012" width="49%" height="300px" alt="Sample1"> <br>
 
-### Sample 2
+### Sample 2 (11.89%)
 <img src="https://github.com/user-attachments/assets/5d68f2a7-dcf2-4560-9ea2-987f66fc0ba0" width="49%" height="300px" alt="Sample2">
-<img src="https://github.com/user-attachments/assets/7164faf5-b12f-446a-96d3-138f5a223155" width="49%" height="300px" alt="Sample2"> <br>
+<img src="https://github.com/user-attachments/assets/d15628bb-2273-4436-a625-afa659cfa5a4" width="49%" height="300px" alt="Sample2"> <br>
 
-### Sample 3
+### Sample 3 (0.28%)
 <img src="https://github.com/user-attachments/assets/71ce41f0-951c-4894-afb1-cb245d41d8c3" width="49%" height="300px" alt="Sample3">
 <img src="https://github.com/user-attachments/assets/1eddedb7-e9ad-44ce-8586-269bf95fbdfe" width="49%" height="300px" alt="Sample3"> <br><br>
 
