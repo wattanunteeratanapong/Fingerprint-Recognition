@@ -14,9 +14,13 @@ In this project am gonna try to make a fingerprint matching between two image to
 
 ### Sample 2
 <img src="https://github.com/user-attachments/assets/5d68f2a7-dcf2-4560-9ea2-987f66fc0ba0" width="49%" height="300px" alt="Sample2">
-<img src="https://github.com/user-attachments/assets/7164faf5-b12f-446a-96d3-138f5a223155" width="49%" height="300px" alt="Sample2"> <br><br>
+<img src="https://github.com/user-attachments/assets/7164faf5-b12f-446a-96d3-138f5a223155" width="49%" height="300px" alt="Sample2"> <br>
 
-As you can see, i tried this technique and it performance is pretty poor. I also tried to tune the FLANN parameter to make it work, but i think it's likely impossible to implement the project with this method. So i wonder what kind of technique do the police like Miami Police Department in Dexter using? <br><br>
+### Sample 3
+<img src="https://github.com/user-attachments/assets/71ce41f0-951c-4894-afb1-cb245d41d8c3" width="49%" height="300px" alt="Sample3">
+<img src="https://github.com/user-attachments/assets/1eddedb7-e9ad-44ce-8586-269bf95fbdfe" width="49%" height="300px" alt="Sample3"> <br><br>
+
+As you can see, i tried this technique and it performance is pretty poor. I also tried to tune the FLANN parameter or even preprocessing image first to make it work, but i think it's likely impossible to implement the project with this method. So i wonder what kind of technique do the police like Miami Police Department in Dexter using? <br><br>
 
 ## Minutiae Based
 ### Sample 1 (81.88%)
@@ -27,7 +31,12 @@ As you can see, i tried this technique and it performance is pretty poor. I also
 ### Sample 2 (31.62%)
 <img src="https://github.com/user-attachments/assets/a3ccef27-44c2-433a-b8e9-d3d9602341fc" width="32%" height="200px" alt="Sample2">
 <img src="https://github.com/user-attachments/assets/97fd50d9-7509-49a5-b30f-e5a994f5f9c9" width="32%" height="200px" alt="Sample2">
-<img src="https://github.com/user-attachments/assets/bc70ede8-6573-4cee-834c-8c21793cff8e" width="32%" height="200px" alt="Sample2"> <br><br>
+<img src="https://github.com/user-attachments/assets/bc70ede8-6573-4cee-834c-8c21793cff8e" width="32%" height="200px" alt="Sample2"> <br>
+
+### Sample 3 (80.08%) (High Resolution Fingerprint)
+<img src="https://github.com/user-attachments/assets/5d791d60-705d-4577-b3f1-b064486b8fc2" width="32%" height="200px" alt="Sample3">
+<img src="https://github.com/user-attachments/assets/990c31ff-1688-48e5-a271-c366e7c0289d" width="32%" height="200px" alt="Sample3">
+<img src="https://github.com/user-attachments/assets/286e6988-5620-47bf-b5d5-14d4d6e07e78" width="32%" height="200px" alt="Sample3"> <br><br>
 
 I think this is the closest method that the real police use to find the match called "Minutiae Based". This include Histogram Equalization to distribute the color equally, then Tresholding to make image only black or white pixel (no gray or shade), then skeleton the image and extract minutiae points and compares them to find a match.  <br><br>
 
@@ -50,3 +59,7 @@ Minutiae Based method accuracy seem fine. But there's one major problem, the two
 
 <a href="https://www.researchgate.net/figure/a-Fingerprint-image-108-5-from-DB1-B-in-FVC2000-b-Enhanced-version-of-fingerprint_fig1_235447407">Fingerprint Sample 2</a>
 <br>
+
+<a href="https://www.newscientist.com/article/2412199-ai-can-tell-if-prints-from-two-different-fingers-belong-to-same-person/">Fingerprint Sample 3</a>
+<br>
+
