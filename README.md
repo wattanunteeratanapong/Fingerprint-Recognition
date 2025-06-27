@@ -20,7 +20,7 @@ In this project am gonna try to make a fingerprint matching between two image to
 <img src="https://github.com/user-attachments/assets/71ce41f0-951c-4894-afb1-cb245d41d8c3" width="49%" height="300px" alt="Sample3">
 <img src="https://github.com/user-attachments/assets/1eddedb7-e9ad-44ce-8586-269bf95fbdfe" width="49%" height="300px" alt="Sample3"> <br><br>
 
-As you can see, i tried this technique and it performance is pretty poor. I also tried to tune the FLANN parameter or even preprocessing image first to make it work, but i think it's likely impossible to implement the project with this method. So i wonder what kind of technique do the police like Miami Police Department in Dexter using? <br><br>
+As you can see, i tried this technique and it performance is pretty poor. I also tried to tune the FLANN parameter or even preprocessing image before matching feature to make it work, but i think it's likely impossible to implement the project with this method. So i wonder what kind of technique do the police like Miami Police Department in Dexter using? <br><br>
 
 ## Minutiae Based
 ### Sample 1 (81.88%)
