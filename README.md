@@ -29,7 +29,7 @@ As you can see, i tried this technique and it performance is pretty poor. I also
 <img src="https://github.com/user-attachments/assets/97fd50d9-7509-49a5-b30f-e5a994f5f9c9" width="32%" height="200px" alt="Sample2">
 <img src="https://github.com/user-attachments/assets/bc70ede8-6573-4cee-834c-8c21793cff8e" width="32%" height="200px" alt="Sample2"> <br><br>
 
-I think this is the closest method that real the police use to find the match called "Minutiae Based". This include Histogram Equalization to distribute the color equally, then Tresholding to make image only black or white pixel (no gray or shade), then skeleton the image and extract minutiae points and compares them to find a match.
+I think this is the closest method that real the police use to find the match called "Minutiae Based". This include Histogram Equalization to distribute the color equally, then Tresholding to make image only black or white pixel (no gray or shade), then skeleton the image and extract minutiae points and compares them to find a match.  <br><br>
 
 # Conclusion
 Minutiae Based method accuracy seem fine. But there's one major problem, the two image format have to be the same format. But i assume that the police is already prep image format already before find match, so this shouldn't be a big concern. <br><br>
