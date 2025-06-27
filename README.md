@@ -1,5 +1,5 @@
 # Fingerprint Recognition
-The inspiration for this project is from a tv show called "Dexter". Dexter is a forensic expert in a blood spatter analyst, most of the time fingerprint matching is a Masuka's job, but some time Dexter have to deal with the finger print for his own secret project too 😈. <br><br>
+The inspiration for this project is from a tv show called "Dexter". Dexter is a forensic expert in a blood spatter analyst, most of the time fingerprint matching is a Masuka's job, but some time Dexter have to deal with the finger print for his own secret project 😈. <br><br>
 <img src="https://github.com/user-attachments/assets/932b0826-5cf5-46ff-9220-b2dba11da459" width="100%" alt="DexterandVince"> <br><br>
 
 # Overview
