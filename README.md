@@ -44,7 +44,7 @@ I think this is the closest method that the real police use to find the match ca
 Minutiae Based method accuracy seem fine. But there's two major problem. <br>
 
 1. The two image format have to be the same format. But i assume that the police is already organize image format before find match, so this shouldn't be a concern. <br>
-2. Fingerprints cannot be rotated too much, or the method will fail to match them correctly. <br><br>
+2. Fingerprints cannot be rotated too much, or the method will fail to match them correctly. <br>
 
 <img src="https://github.com/user-attachments/assets/eff61c99-bf5e-4f20-b7bd-dfb3eeb79ea5" width="100%" alt="DexterMickey"> <br><br>
 
