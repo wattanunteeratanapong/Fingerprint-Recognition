@@ -20,14 +20,14 @@ As you can see, i tried this technique and it performance is pretty poor. I also
 
 ## Minutiae Based
 ### Sample 1
-<img src="https://github.com/user-attachments/assets/37fd224d-f7b2-4f08-98d0-48ee87dd57ae" width="32%" height="250px" alt="Sample1">
-<img src="https://github.com/user-attachments/assets/0323a3ad-848a-4f25-ad34-d3850bf58fe8" width="32%" height="250px" alt="Sample1">
-<img src="https://github.com/user-attachments/assets/b6da19bf-a6c9-4399-b683-a8a7794c23bd" width="32%" height="250px" alt="Sample1"> <br>
+<img src="https://github.com/user-attachments/assets/37fd224d-f7b2-4f08-98d0-48ee87dd57ae" width="32%" height="200px" alt="Sample1">
+<img src="https://github.com/user-attachments/assets/0323a3ad-848a-4f25-ad34-d3850bf58fe8" width="32%" height="200px" alt="Sample1">
+<img src="https://github.com/user-attachments/assets/b6da19bf-a6c9-4399-b683-a8a7794c23bd" width="32%" height="200px" alt="Sample1"> <br>
 
 ### Sample 2
-<img src="https://github.com/user-attachments/assets/a3ccef27-44c2-433a-b8e9-d3d9602341fc" width="32%" height="275px" alt="Sample2">
-<img src="https://github.com/user-attachments/assets/97fd50d9-7509-49a5-b30f-e5a994f5f9c9" width="32%" height="275px" alt="Sample2">
-<img src="https://github.com/user-attachments/assets/bc70ede8-6573-4cee-834c-8c21793cff8e" width="32%" height="275px" alt="Sample2"> <br><br>
+<img src="https://github.com/user-attachments/assets/a3ccef27-44c2-433a-b8e9-d3d9602341fc" width="32%" height="200px" alt="Sample2">
+<img src="https://github.com/user-attachments/assets/97fd50d9-7509-49a5-b30f-e5a994f5f9c9" width="32%" height="200px" alt="Sample2">
+<img src="https://github.com/user-attachments/assets/bc70ede8-6573-4cee-834c-8c21793cff8e" width="32%" height="200px" alt="Sample2"> <br><br>
 
 This method is the method that real police is use to find the match called "Minutiae Based". This include Histogram Equalization to distribute the color equally, then Tresholding to make image only black or white pixel (no gray or shade), then skeleton the image and extract minutiae points and compares them to find a match.
 
